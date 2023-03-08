@@ -17,5 +17,3 @@
 ### • Obsisian utilises the Markdown formatting to organise your notes, without the hassle of having to change fonts and text emphasis everytime you take new notes. 
 
 * ### [[Markdown and their applications]]
-
-* #### [[2023-03-08]]

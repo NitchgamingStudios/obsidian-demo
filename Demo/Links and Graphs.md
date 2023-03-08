@@ -26,4 +26,4 @@
 
 #### Another use for links is an index page, where you can couple lists and links to create a note that removes the hassle of going through the graphs and folders to find the note you want to.
 
-#### [[Inserting Images]]
+#### [[Tables]]
